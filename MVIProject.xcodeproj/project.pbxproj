@@ -30,11 +30,6 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		04E4C4792DE0AD04009D2CB4 /* MVIProject */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = MVIProject;
-			sourceTree = "<group>";
-		};
 		04E4C48A2DE0AD07009D2CB4 /* MVIProjectTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = MVIProjectTests;
@@ -43,6 +38,11 @@
 		04E4C4942DE0AD07009D2CB4 /* MVIProjectUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = MVIProjectUITests;
+			sourceTree = "<group>";
+		};
+		04E4C4B52DE0C1FB009D2CB4 /* MVIProject */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = MVIProject;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -75,7 +75,7 @@
 		04E4C46E2DE0AD04009D2CB4 = {
 			isa = PBXGroup;
 			children = (
-				04E4C4792DE0AD04009D2CB4 /* MVIProject */,
+				04E4C4B52DE0C1FB009D2CB4 /* MVIProject */,
 				04E4C48A2DE0AD07009D2CB4 /* MVIProjectTests */,
 				04E4C4942DE0AD07009D2CB4 /* MVIProjectUITests */,
 				04E4C4782DE0AD04009D2CB4 /* Products */,
@@ -108,7 +108,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				04E4C4792DE0AD04009D2CB4 /* MVIProject */,
+				04E4C4B52DE0C1FB009D2CB4 /* MVIProject */,
 			);
 			name = MVIProject;
 			packageProductDependencies = (
